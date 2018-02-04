@@ -1,0 +1,12 @@
+categorysubjectwise
+examcategory
+examsubcategory
+newsandnotifications
+subcategorysubjectwise
+questionbank
+testdetails
+questions
+testreports
+testquestionreport
+userdetails
+usercreds
